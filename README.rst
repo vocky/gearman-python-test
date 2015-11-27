@@ -14,7 +14,7 @@ Quick-start
 
 2.Start Jobs
 
-.. code-block:: coonsole
+.. code-block:: console
 
     $ gearmand -l gearman.log -L 172.26.183.16 -p 4735 &
     $ gearmand -l gearman.log -L 172.26.183.15 -p 4735 &
